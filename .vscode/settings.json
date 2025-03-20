@@ -1,0 +1,3 @@
+{
+  "rubyLsp.customRubyCommand": "eval \"$(nix run .#activate-ruby)\""
+}
