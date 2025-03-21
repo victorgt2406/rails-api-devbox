@@ -8,9 +8,6 @@
       "outputs": ["out", "dev"]
     }
   },
-  "env": {
-    "DEVBOX_COREPACK_ENABLED": "true"
-  },
   "shell": {
     "init_hook": [
       "echo 'Welcome to devbox!' > /dev/null"
